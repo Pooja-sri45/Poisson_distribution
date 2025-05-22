@@ -1,4 +1,7 @@
 # Fitting Poisson  distribution
+# NAME: POOJASRI L
+# REG.NO: 212223220076
+# DATE: 07/03/2025
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
